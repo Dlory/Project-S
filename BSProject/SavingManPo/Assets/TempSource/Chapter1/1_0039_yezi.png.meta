@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 4953562630078dd41a16112556c33a7c
+timeCreated: 1457767162
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_0039_yezi_0
+    21300002: 1_0039_yezi_1
+    21300004: 1_0039_yezi_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1_0039_yezi_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 256
+        width: 454
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: -235}
+        - {x: 167, y: -184}
+        - {x: 160, y: -159}
+        - {x: 141, y: -128}
+        - {x: 115, y: -102}
+        - {x: 126, y: -95}
+        - {x: 142, y: -80}
+        - {x: 147, y: -74}
+        - {x: 165, y: -49}
+        - {x: 175, y: -7}
+        - {x: 166, y: 28}
+        - {x: 204, y: 66}
+        - {x: 224, y: 94}
+        - {x: 227, y: 103}
+        - {x: 227, y: 161}
+        - {x: 212, y: 186}
+        - {x: 187, y: 210}
+        - {x: 148, y: 232}
+        - {x: 83, y: 240}
+        - {x: 50, y: 235}
+        - {x: 8, y: 220}
+        - {x: -17, y: 250}
+        - {x: -43, y: 254}
+        - {x: -35, y: 273}
+        - {x: -61, y: 299}
+        - {x: -89, y: 324}
+        - {x: -110, y: 334}
+        - {x: -139, y: 334}
+        - {x: -150, y: 323}
+        - {x: -146, y: 282}
+        - {x: -136, y: 261}
+        - {x: -120, y: 225}
+        - {x: -85, y: 168}
+        - {x: -58, y: 122}
+        - {x: -102, y: 123}
+        - {x: -133, y: 121}
+        - {x: -140, y: 103}
+        - {x: -149, y: 114}
+        - {x: -172, y: 110}
+        - {x: -209, y: 85}
+        - {x: -213, y: 64}
+        - {x: -201, y: 49}
+        - {x: -180, y: 42}
+        - {x: -164, y: 34}
+        - {x: -90, y: 39}
+        - {x: -99, y: 13}
+        - {x: -99, y: -33}
+        - {x: -91, y: -75}
+        - {x: -105, y: -84}
+        - {x: -111, y: -88}
+        - {x: -125, y: -98}
+        - {x: -139, y: -125}
+        - {x: -136, y: -141}
+        - {x: -188, y: -178}
+        - {x: -184, y: -198}
+        - {x: -201, y: -183}
+        - {x: -217, y: -205}
+        - {x: -227, y: -226}
+        - {x: -227, y: -264}
+        - {x: -225, y: -274}
+        - {x: -177, y: -296}
+        - {x: -129, y: -282}
+        - {x: -89, y: -254}
+        - {x: -74, y: -283}
+        - {x: -37, y: -318}
+        - {x: -1, y: -334}
+        - {x: 68, y: -334}
+        - {x: 83, y: -330}
+        - {x: 123, y: -307}
+        - {x: 151, y: -274}
+    - name: 1_0039_yezi_1
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 190
+        width: 360
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -219.5}
+        - {x: 41, y: -167.5}
+        - {x: 69, y: -105.5}
+        - {x: 80, y: -112.5}
+        - {x: 85, y: -114.5}
+        - {x: 134, y: -105.5}
+        - {x: 180, y: -74.5}
+        - {x: 180, y: -15.5}
+        - {x: 158, y: 19.5}
+        - {x: 105, y: 40.5}
+        - {x: 121, y: 73.5}
+        - {x: 120, y: 106.5}
+        - {x: 116, y: 107.5}
+        - {x: 99, y: 109.5}
+        - {x: 94, y: 99.5}
+        - {x: 95, y: 93.5}
+        - {x: 94, y: 96.5}
+        - {x: 93, y: 113.5}
+        - {x: 72, y: 121.5}
+        - {x: 50, y: 121.5}
+        - {x: 77, y: 218.5}
+        - {x: 87, y: 282.5}
+        - {x: 86, y: 320.5}
+        - {x: 77, y: 338.5}
+        - {x: 46, y: 338.5}
+        - {x: 20, y: 302.5}
+        - {x: -8, y: 214.5}
+        - {x: -24, y: 230.5}
+        - {x: -45, y: 244.5}
+        - {x: -35, y: 270.5}
+        - {x: -36, y: 298.5}
+        - {x: -58, y: 332.5}
+        - {x: -70, y: 338.5}
+        - {x: -106, y: 338.5}
+        - {x: -129, y: 332.5}
+        - {x: -147, y: 300.5}
+        - {x: -143, y: 241.5}
+        - {x: -180, y: 207.5}
+        - {x: -180, y: 130.5}
+        - {x: -128, y: 95.5}
+        - {x: -99, y: 93.5}
+        - {x: -92, y: 34.5}
+        - {x: -120, y: -9.5}
+        - {x: -150, y: -20.5}
+        - {x: -180, y: -60.5}
+        - {x: -180, y: -109.5}
+        - {x: -165, y: -147.5}
+        - {x: -171, y: -185.5}
+        - {x: -169, y: -240.5}
+        - {x: -141, y: -301.5}
+        - {x: -112, y: -327.5}
+        - {x: -93, y: -338.5}
+        - {x: -31, y: -338.5}
+        - {x: 7, y: -309.5}
+        - {x: 16, y: -293.5}
+        - {x: 37, y: -249.5}
+    - name: 1_0039_yezi_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 49}
+        - {x: 47, y: 46}
+        - {x: 42, y: 41}
+        - {x: 42, y: 35}
+        - {x: 45, y: 30}
+        - {x: 42, y: 30}
+        - {x: 42, y: 36}
+        - {x: 40, y: 41}
+        - {x: 33, y: 50}
+        - {x: -11, y: 59}
+        - {x: -41, y: 59}
+        - {x: -60, y: 34}
+        - {x: -72, y: 14}
+        - {x: -72, y: -46}
+        - {x: -68, y: -59}
+        - {x: 68, y: -59}
+        - {x: 72, y: -51}
+        - {x: 72, y: 32}
+        - {x: 59, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

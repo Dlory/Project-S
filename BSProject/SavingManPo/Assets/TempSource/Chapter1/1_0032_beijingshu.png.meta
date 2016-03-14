@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 68fd06d72aa61c54aaaf24a146387777
+timeCreated: 1457921674
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_0032_beijingshu_0
+    21300002: 1_0032_beijingshu_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1_0032_beijingshu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 426
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -218}
+        - {x: 157, y: -216}
+        - {x: 168, y: -210}
+        - {x: 187, y: -185}
+        - {x: 198, y: -160}
+        - {x: 206, y: -129}
+        - {x: 211, y: -100}
+        - {x: 213, y: -90}
+        - {x: 213, y: 17}
+        - {x: 207, y: 53}
+        - {x: 203, y: 72}
+        - {x: 187, y: 109}
+        - {x: 177, y: 125}
+        - {x: 157, y: 142}
+        - {x: 135, y: 142}
+        - {x: 121, y: 133}
+        - {x: 110, y: 121}
+        - {x: 92, y: 86}
+        - {x: 88, y: 70}
+        - {x: 81, y: 41}
+        - {x: 78, y: 22}
+        - {x: 75, y: -8}
+        - {x: 74, y: -31}
+        - {x: 66, y: -32}
+        - {x: 62, y: -35}
+        - {x: 54, y: -44}
+        - {x: 52, y: -9}
+        - {x: 49, y: 33}
+        - {x: 45, y: 68}
+        - {x: 36, y: 125}
+        - {x: 26, y: 160}
+        - {x: 10, y: 190}
+        - {x: 3, y: 197}
+        - {x: -13, y: 199}
+        - {x: -19, y: 197}
+        - {x: -35, y: 181}
+        - {x: -47, y: 145}
+        - {x: -54, y: 151}
+        - {x: -73, y: 155}
+        - {x: -91, y: 141}
+        - {x: -103, y: 114}
+        - {x: -108, y: 118}
+        - {x: -137, y: 122}
+        - {x: -155, y: 117}
+        - {x: -170, y: 114}
+        - {x: -172, y: 127}
+        - {x: -178, y: 167}
+        - {x: -193, y: 211}
+        - {x: -204, y: 230}
+        - {x: -210, y: 236}
+        - {x: -213, y: 236}
+        - {x: -213, y: -236}
+        - {x: 107, y: -236}
+        - {x: 109, y: -235}
+        - {x: 113, y: -202}
+        - {x: 125, y: -212}
+    - name: 1_0032_beijingshu_1
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 10
+        width: 335
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: -229.5}
+        - {x: -44.5, y: -252.5}
+        - {x: -32.5, y: -263.5}
+        - {x: -5.5, y: -263.5}
+        - {x: 8.5, y: -251.5}
+        - {x: 14.5, y: -263.5}
+        - {x: 120.5, y: -262.5}
+        - {x: 122.5, y: -260.5}
+        - {x: 131.5, y: -260.5}
+        - {x: 136.5, y: -269.5}
+        - {x: 156.5, y: -271.5}
+        - {x: 162.5, y: -258.5}
+        - {x: 167.5, y: -247.5}
+        - {x: 167.5, y: 259.5}
+        - {x: 163.5, y: 268.5}
+        - {x: 159.5, y: 274.5}
+        - {x: 154.5, y: 278.5}
+        - {x: 138.5, y: 278.5}
+        - {x: 132.5, y: 273.5}
+        - {x: 124.5, y: 258.5}
+        - {x: 118.5, y: 245.5}
+        - {x: 108.5, y: 204.5}
+        - {x: 99.5, y: 138.5}
+        - {x: 93.5, y: 102.5}
+        - {x: 73.5, y: 121.5}
+        - {x: 55.5, y: 119.5}
+        - {x: 40.5, y: 121.5}
+        - {x: 34.5, y: 148.5}
+        - {x: 16.5, y: 192.5}
+        - {x: 1.5, y: 210.5}
+        - {x: -25.5, y: 214.5}
+        - {x: -44.5, y: 196.5}
+        - {x: -57.5, y: 170.5}
+        - {x: -65.5, y: 147.5}
+        - {x: -69.5, y: 129.5}
+        - {x: -88.5, y: 165.5}
+        - {x: -94.5, y: 176.5}
+        - {x: -107.5, y: 184.5}
+        - {x: -116.5, y: 183.5}
+        - {x: -121.5, y: 181.5}
+        - {x: -131.5, y: 172.5}
+        - {x: -142.5, y: 154.5}
+        - {x: -151.5, y: 127.5}
+        - {x: -161.5, y: 81.5}
+        - {x: -165.5, y: 41.5}
+        - {x: -167.5, y: 26.5}
+        - {x: -167.5, y: -127.5}
+        - {x: -158.5, y: -195.5}
+        - {x: -154.5, y: -213.5}
+        - {x: -144.5, y: -246.5}
+        - {x: -132.5, y: -268.5}
+        - {x: -123.5, y: -278.5}
+        - {x: -98.5, y: -278.5}
+        - {x: -90.5, y: -268.5}
+        - {x: -74.5, y: -232.5}
+        - {x: -69.5, y: -205.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
