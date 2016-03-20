@@ -39,6 +39,9 @@ public class CharacterController : MonoBehaviour {
     public int NeedItemCount = 0;
     public int HideItemCount = 0;
 
+    public LevelOneUI levelOneUI;
+    public GameObject ResultUI;
+
     // Use this for initialization
     void Start () {
         SetFloor();
@@ -125,30 +128,35 @@ public class CharacterController : MonoBehaviour {
                     {
                         GameObject.Find("book_hide").SetActive(false);
                         HideItemCount++;
+                        levelOneUI.book.SetActive(true);
                     }
 
                     if (hit.collider.name == "milk_hide" && floor == 1)
                     {
                         GameObject.Find("milk_hide").SetActive(false);
                         HideItemCount++;
+                        levelOneUI.milk.SetActive(true);
                     }
 
                     if (hit.collider.name == "paint6_hide" && floor == 2)
                     {
                         GameObject.Find("paint6_hide").SetActive(false);
                         HideItemCount++;
+                        levelOneUI.paint6.SetActive(true);
                     }
 
                     if (hit.collider.name == "paint7_hide" && floor == 2)
                     {
                         GameObject.Find("paint7_hide").SetActive(false);
                         HideItemCount++;
+                        levelOneUI.paint7.SetActive(true);
                     }
 
                     if (hit.collider.name == "jiangbei_hide" && floor == 2)
                     {
                         GameObject.Find("jiangbei_hide").SetActive(false);
                         HideItemCount++;
+                        levelOneUI.jiangbei.SetActive(true);
                     }
                 }
             }
@@ -451,6 +459,13 @@ public class CharacterController : MonoBehaviour {
                 iTween.ScaleTo(door, iTween.Hash("scale", new Vector3(1, 0), "time", 2, "easetype", iTween.EaseType.linear));
                 Invoke("SetFloor", 1.5f);
             }
+        }
+
+        if (coll.gameObject.name == "flower"&&NeedItemCount==3)
+        {
+            ResultUI.SetActive(true);
+            enabled = false;
+            Debug.Log("Done");
         }
     }
 
